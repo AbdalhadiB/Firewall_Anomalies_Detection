@@ -1,0 +1,2 @@
+﻿p
+"(:line {Action: ""permit"",SrcPort: ""any"",DstIP: ""172.16.0.0/12"",Index: ""2301"",DstPort: [0],Protocol: ""ip"",SrcIP: ""172.16.0.0/12""})-[:Irrelation_1]->(:line {Action: ""permit"",SrcPort: ""any"",DstIP: ""172.16.0.0/12"",Index: ""2301"",DstPort: [0],Protocol: ""ip"",SrcIP: ""172.16.0.0/12""})"
